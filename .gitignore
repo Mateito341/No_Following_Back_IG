@@ -1,0 +1,65 @@
+# Archivos de datos personales de Instagram
+*.json
+followers*.json
+following*.json
+followers_*.json
+
+# Archivos HTML (por si usaste el parser anterior)
+*.html
+followers*.html
+following*.html
+
+# Ejecutables compilados
+main
+main.exe
+*.out
+*.o
+*.exe
+
+# Archivos temporales del sistema
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# Directorios de IDE
+.vscode/
+.idea/
+*.code-workspace
+
+# Archivos de depuración
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Archivos de backup
+*.bak
+*.backup
+*~
+
+# Logs
+*.log
+
+# Archivos de Visual Studio
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Archivos de compilación
+*.obj
+*.elf
+*.ilk
+*.map
+*.exp
+*.gch
+*.pch
+*.lib
+*.a
+*.la
+*.lo
+*.dll
+*.so
+*.dylib
